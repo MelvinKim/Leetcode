@@ -1,2 +1,2 @@
 # Leetcode
-Leetcode  is fun!!
+Leetcode  playground!!
